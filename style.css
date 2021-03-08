@@ -1,0 +1,197 @@
+
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+body{
+	min-height: 110vh;
+}
+#main{
+	background-color: #efe06970;
+	width: 70%;
+	margin: auto;
+}
+header{
+	min-height: 8vh;
+	width: 100%;
+	margin: auto;
+}
+nav{
+}
+
+nav h2{
+	text-align: center;
+	padding: 1rem 0;
+}
+nav span{
+	display: block;
+	text-align: center;
+	font-size: 20px;
+}
+section{
+	min-height: 92vh;
+	width: 100%;
+	margin: auto;
+	overflow-y: hidden;
+}
+footer{
+	min-height: 10vh;
+	width: 100%;
+	text-align: center;
+	align-items: center;
+	vertical-align: middle;
+	margin: auto;
+	overflow: hidden;
+}
+p{
+	display: block;
+	text-align: center;
+	padding-top: 1rem;
+	font-size: 18px;
+}
+table{
+	margin: 1rem 0 0 0 ;
+	height: 100%;
+}
+td{
+	width: auto;
+	font-size: 18px;
+	line-height:18px;
+	/*letter-spacing: 2px;*/
+	padding: 0.4rem;
+}
+a{
+	text-decoration: none;
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	height: 100%;
+	margin: auto;
+}
+
+.infor-1{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.infor-1 img{
+	height: 180px;
+	width: 140px;
+	margin: 1rem;
+	left: 0px;
+	border:1px solid;
+	border-color: blue;
+}
+
+.container .information{
+	flex: 1;
+	margin-left: 1rem;
+	border-bottom: 2px solid orange;
+	padding-bottom: 2rem;
+}
+
+.container .education{
+	flex: 1;
+	margin-left: 1rem;
+	border-bottom: 2px solid orange;
+	padding-bottom: 2rem;
+
+}
+
+.container .experience{
+	flex: 1;
+	margin-left: 1rem;
+	border-bottom: 2px solid orange;
+	padding-bottom: 2rem;
+}
+
+.container .wish{
+	flex: 1;
+	margin-left: 1rem;
+	border-bottom: 2px solid orange;
+	padding-bottom: 2rem;
+}
+
+.title{
+	font-weight: bold;
+	text-align: left;
+}
+.txt{
+	text-align: left;
+}
+.kyten{
+ 	width: 50%;
+ 	float: right;
+}
+
+
+
+@media screen and (max-width: 768px) {
+	#main{
+		width: 100%;
+	}
+	.container{
+		display: flex;
+		flex-direction: column;
+	}
+	td{
+		font-size: 15px;
+		line-height:15px;
+		/*letter-spacing: 1px;*/
+		padding: 0.2rem;
+	}
+	.container .information p{
+		font-size: 15px;
+	}
+	.container .education p{
+		font-size: 15px;
+	}
+
+	.container .experience p{
+		font-size: 15px;
+	}
+
+	.container .wish p{
+		font-size: 15px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.infor-1{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.infor-1 img{
+		height: 120px;
+		width: 100px;
+		margin: 1rem;
+		left: 0px;
+	}
+	td{
+		font-size: 15px;
+		line-height:15px;
+		/*letter-spacing: 1px;*/
+		padding: 0.2rem;
+	}
+	.container .information p{
+		font-size: 15px;
+	}
+	.container .education p{
+		font-size: 15px;
+	}
+
+	.container .experience p{
+		font-size: 15px;
+	}
+
+	.container .wish p{
+		font-size: 15px;
+	}
+
+}
+
