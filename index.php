@@ -11,7 +11,7 @@
 				<span>CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br><i>Độc lập - Tự do - Hạnh phúc</i></span>
 				<h2>ĐƠN XIN THỰC TẬP</h2>
 				<p style="text-align: left;">
-					Kính gửi EFE Technology Danang,
+					Kính gửi Sun* Inc,
 				</p>
 			</nav>
 		</header>
@@ -88,16 +88,18 @@
 
 				<div class="experience">
 					<p class="title">KINH NGHIỆM</p>
-					<p class="txt">- Hiện tại, em đang theo làm và gần hoàn thành đề tài nghiên cứu khoa học tại trường theo hướng xây dựng hệ thống hỗ trợ mượn trả phòng và thiết bị tại trường trên nền tảng Website, được viết thuần PHP sử dụng Create, Read, Update, Delete(CRUD) và API để giao tiếp với cơ sở dữ liệu. Trang web cũng được Reponsive. Tuy nhiên, đang trong quá trình hoàn thành nên vẫn còn thiếu sót.</p>
-					<label>links tham khảo : <a href="http://phongthietbidau.herokuapp.com/">http://phongthietbidau.herokuapp.com/</a></label>
-					<p class="txt">- Thêm một vài project nhỏ của các môn học có sử dụng CRUD và Reponsive.</p>
-					<label>link tham khảo : <a href="https://github.com/Minh99/baitaplon_web">https://github.com/Minh99/baitaplon_web</a></label>
+					<p class="txt">- Hiện tại, em đang trong quá trình làm và sắp hoàn thành đề tài nghiên cứu khoa học tại trường theo hướng xây dựng hệ thống hỗ trợ mượn trả phòng và thiết bị tại trường trên nền tảng Website, được viết thuần PHP (front-end) và Python (Api) để giao tiếp với cơ sở dữ liệu. Bài toán vẫn đang trong quá trình hoàn thành nên chưa hoàn chỉnh.</p>
+					<label>link tham khảo : <a href="http://phongthietbidau.herokuapp.com/">http://phongthietbidau.herokuapp.com/</a></label>
+					<p class="txt">- Một vài project nhỏ của các môn học có sử dụng ReactJs - PHP và Python</p>
+					<label>link tham khảo : <a href="https://github.com/Minh99/baitaplon_web">https://github.com/Minh99/baitaplon_web</a></label><br>
+					<label>link tham khảo : <a href="https://github.com/Minh99/BigProject">https://github.com/Minh99/BigProject</a></label>
+					
 				</div>
 				<div class="wish">
 					<p class="title">MONG MUỐN CÔNG VIỆC</p>
-					<p class="txt">- Được tham gia vào đội ngũ của EFE Technology Danang để phát triển bản thân.</p>
+					<p class="txt">- Được tham gia vào đội ngũ của Sun* Inc để phát triển bản thân.</p>
 					<p class="txt">- Hoàn thành kỳ thực tập đạt hiệu quả tốt.</p>
-					<p class="txt">- Trở thành dev PHP theo sở thích nghề nghiệp.</p>
+					<p class="txt">- Trở thành Back-end Developer theo sở thích nghề nghiệp.</p>
 				</div>
 			</div>
 
@@ -107,7 +109,7 @@
 			<div class="footer">
 				<p>Xin chân thành cảm ơn !</p>
 				<p class="kyten">
-					<i>Đà nẵng,ngày 08 tháng 03 năm 2021</i><br>
+					<i>Đà nẵng,ngày 10 tháng 03 năm 2021</i><br>
 					Phạm Văn Minh
 				</p>
 			</div>
